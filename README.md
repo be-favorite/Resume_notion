@@ -6,4 +6,4 @@
 
 - **최종 수정 일자**: 2022. 09. 11
 
-- 🔗[참고자료](https://wonny.space/writing/work/engineer-resume)
+- 🔗[이력서 및 포트폴리오 제작기](https://taemobang.notion.site/Taemo-Bang-513d48d1b7414ae8a0b92dbe6b07f737)

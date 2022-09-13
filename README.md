@@ -1,6 +1,6 @@
 # Résumé
 
-### 🔗[이력서](https://resume-taemo.notion.site)
+### 🔗[이력서](https://taemobang.notion.site/Taemo-Bang-513d48d1b7414ae8a0b92dbe6b07f737)
 
 - 노션으로 제작하고 관리하고 있습니다.
 
